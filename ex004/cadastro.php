@@ -1,1 +1,0 @@
-Cadastro efetuado com sucesso
